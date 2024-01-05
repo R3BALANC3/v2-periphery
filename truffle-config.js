@@ -34,6 +34,7 @@ plugins: [
   'truffle-plugin-verify'
 ],
 api_keys: {
-  pulsechain: '0' // this is dummy API key, PulseScan doesn't need any, but it's required by truffle-plugin-verify.
+  etherscan: '0' // this is dummy API key, PulseScan doesn't need any, but it's required by truffle-plugin-verify.
+
 },
 };

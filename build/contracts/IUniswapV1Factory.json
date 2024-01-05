@@ -28,7 +28,7 @@
   "sourceMap": "",
   "deployedSourceMap": "",
   "source": "pragma solidity >=0.5.0;\r\n\r\ninterface IUniswapV1Factory {\r\n    function getExchange(address) external view returns (address);\r\n}\r\n",
-  "sourcePath": "C:\\Users\\ñdkvubefklbjvr\\Documents\\cardio\\v2-periphery\\contracts\\interfaces\\V1\\IUniswapV1Factory.sol",
+  "sourcePath": "C:\\Users\\ñdkvubefklbjvr\\Desktop\\R33\\v2-periphery\\contracts\\interfaces\\V1\\IUniswapV1Factory.sol",
   "ast": {
     "absolutePath": "project:/contracts/interfaces/V1/IUniswapV1Factory.sol",
     "exportedSymbols": {
@@ -314,7 +314,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.14",
-  "updatedAt": "2023-07-17T12:15:16.948Z",
+  "updatedAt": "2024-01-05T04:00:59.604Z",
   "devdoc": {
     "methods": {}
   },

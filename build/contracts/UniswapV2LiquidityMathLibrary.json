@@ -1,14 +1,14 @@
 {
   "contractName": "UniswapV2LiquidityMathLibrary",
   "abi": [],
-  "metadata": "{\"compiler\":{\"version\":\"0.6.6+commit.6c089d02\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"project:/contracts/libraries/UniswapV2LiquidityMathLibrary.sol\":\"UniswapV2LiquidityMathLibrary\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":999999},\"remappings\":[]},\"sources\":{\"@uniswap/lib/contracts/libraries/Babylonian.sol\":{\"keccak256\":\"0xeb1c2a281a00f4660775f75ccfa1e51fbe1d75f86aeb9d0d297151ecdb900177\",\"urls\":[\"bzz-raw://68515f0265381bddfb1d1356ea10ce4e5784276fc09f197fcdcedfa5c75cc069\",\"dweb:/ipfs/QmXWVVPnuJwRUAu3Qpu1s7Fyc5WPQxmZPczVEe5cJ5wVHZ\"]},\"@uniswap/lib/contracts/libraries/FullMath.sol\":{\"keccak256\":\"0xc4ffcf28169f73fc9fdd1f82345d6d4fcccf3fd5aea83c133437c25e4e0950a9\",\"urls\":[\"bzz-raw://c9257a47501005f0a648bc4801ef4abc33843681aaf03a6d0c43d46b69e37407\",\"dweb:/ipfs/QmciHvDrqhxs5fjsrm9aNq29FZXpunMn17n2wWj83Zsh3B\"]},\"@uniswap/v2-core/contracts/interfaces/IUniswapV2Factory.sol\":{\"keccak256\":\"0xe5905c0989cf5a865ed9bb7b9252536ca011c5b744017a82a7d4443b9c00a891\",\"urls\":[\"bzz-raw://5d2a90a0a796491507462a3da18c3f8819721d571572d765a2207c35bf0a0389\",\"dweb:/ipfs/Qmf9ACYiT3qzjgsYuhm866FBdiBpRMXAPpQhSFbgqcyhHt\"]},\"@uniswap/v2-core/contracts/interfaces/IUniswapV2Pair.sol\":{\"keccak256\":\"0x7c9bc70e5996c763e02ff38905282bc24fb242b0ef2519a003b36824fc524a4b\",\"urls\":[\"bzz-raw://85d5ad2dd23ee127f40907a12865a1e8cb5828814f6f2480285e1827dd72dedf\",\"dweb:/ipfs/QmayKQWJgWmr46DqWseADyUanmqxh662hPNdAkdHRjiQQH\"]},\"project:/contracts/libraries/SafeMath.sol\":{\"keccak256\":\"0x977f38b601109ee7a0c1b70a32e08b7aecf5b4672bdea39fa6b7fec810943b80\",\"urls\":[\"bzz-raw://50296b94e299cd690f4a7966a93ac6ac58128080b0a14fdb1c2e07d71b50930c\",\"dweb:/ipfs/QmSCqtcNbmcXUekQk2NYGDQcWt34sASe6ru1v2FLBX9coc\"]},\"project:/contracts/libraries/UniswapV2Library.sol\":{\"keccak256\":\"0xa116b76f9c7f58cff3555f5d33b0d23ba2832f57102c29c2995a02d5e96d268b\",\"urls\":[\"bzz-raw://b6c9de60450baba6caa0c5f9e2705814a7b4c8d64a044a668f5afec1e1013122\",\"dweb:/ipfs/QmSXTYfvCmvqpEc7b4fSumQNyX46iXuZjhtmBCjoNM1e8v\"]},\"project:/contracts/libraries/UniswapV2LiquidityMathLibrary.sol\":{\"keccak256\":\"0x7bf2e4642c34bcc22210406f81b746bb8593a8ab62a8fe2449350a80a115358a\",\"urls\":[\"bzz-raw://5b4fb0150ab58b95618dfdb88d3c8c16797dc951bbbf564cfc91d91ddfd7786c\",\"dweb:/ipfs/QmUyHAKtWfdkCVhLtUZPZFSEDAis5Q5svkKb3PZDFHGg3K\"]}},\"version\":1}",
-  "bytecode": "0x60566023600b82828239805160001a607314601657fe5b30600052607381538281f3fe73000000000000000000000000000000000000000030146080604052600080fdfea2646970667358221220c84ac2e3ba30a4de58aee707c6c68d7336cc549c87e8517ac2fed3f5f5d7829264736f6c63430006060033",
-  "deployedBytecode": "0x73000000000000000000000000000000000000000030146080604052600080fdfea2646970667358221220c84ac2e3ba30a4de58aee707c6c68d7336cc549c87e8517ac2fed3f5f5d7829264736f6c63430006060033",
+  "metadata": "{\"compiler\":{\"version\":\"0.6.6+commit.6c089d02\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"project:/contracts/libraries/UniswapV2LiquidityMathLibrary.sol\":\"UniswapV2LiquidityMathLibrary\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":999999},\"remappings\":[]},\"sources\":{\"@uniswap/lib/contracts/libraries/Babylonian.sol\":{\"keccak256\":\"0xeb1c2a281a00f4660775f75ccfa1e51fbe1d75f86aeb9d0d297151ecdb900177\",\"urls\":[\"bzz-raw://68515f0265381bddfb1d1356ea10ce4e5784276fc09f197fcdcedfa5c75cc069\",\"dweb:/ipfs/QmXWVVPnuJwRUAu3Qpu1s7Fyc5WPQxmZPczVEe5cJ5wVHZ\"]},\"@uniswap/lib/contracts/libraries/FullMath.sol\":{\"keccak256\":\"0xc4ffcf28169f73fc9fdd1f82345d6d4fcccf3fd5aea83c133437c25e4e0950a9\",\"urls\":[\"bzz-raw://c9257a47501005f0a648bc4801ef4abc33843681aaf03a6d0c43d46b69e37407\",\"dweb:/ipfs/QmciHvDrqhxs5fjsrm9aNq29FZXpunMn17n2wWj83Zsh3B\"]},\"@uniswap/v2-core/contracts/interfaces/IUniswapV2Factory.sol\":{\"keccak256\":\"0xe5905c0989cf5a865ed9bb7b9252536ca011c5b744017a82a7d4443b9c00a891\",\"urls\":[\"bzz-raw://5d2a90a0a796491507462a3da18c3f8819721d571572d765a2207c35bf0a0389\",\"dweb:/ipfs/Qmf9ACYiT3qzjgsYuhm866FBdiBpRMXAPpQhSFbgqcyhHt\"]},\"@uniswap/v2-core/contracts/interfaces/IUniswapV2Pair.sol\":{\"keccak256\":\"0x7c9bc70e5996c763e02ff38905282bc24fb242b0ef2519a003b36824fc524a4b\",\"urls\":[\"bzz-raw://85d5ad2dd23ee127f40907a12865a1e8cb5828814f6f2480285e1827dd72dedf\",\"dweb:/ipfs/QmayKQWJgWmr46DqWseADyUanmqxh662hPNdAkdHRjiQQH\"]},\"project:/contracts/libraries/SafeMath.sol\":{\"keccak256\":\"0x977f38b601109ee7a0c1b70a32e08b7aecf5b4672bdea39fa6b7fec810943b80\",\"urls\":[\"bzz-raw://50296b94e299cd690f4a7966a93ac6ac58128080b0a14fdb1c2e07d71b50930c\",\"dweb:/ipfs/QmSCqtcNbmcXUekQk2NYGDQcWt34sASe6ru1v2FLBX9coc\"]},\"project:/contracts/libraries/UniswapV2Library.sol\":{\"keccak256\":\"0x097f205cb94077a3699e7fa28e21c79084b0b93bd8221c02fa1c4f16a13ddd4d\",\"urls\":[\"bzz-raw://cc95367c45d5cb5acbfccce1e253d068bb492f7c57342e125a06fed18a995a26\",\"dweb:/ipfs/QmUQVvzVkWac7UfFTwiPwLHF14iqyZpGJDLdervLjMiwMj\"]},\"project:/contracts/libraries/UniswapV2LiquidityMathLibrary.sol\":{\"keccak256\":\"0x6036365fa1780fe7a74e337441cce505b03e7f093151e50f27b78885023b6a42\",\"urls\":[\"bzz-raw://83caba7dc0d3758c935ce1a90fe5aee365d3c17df9d008dc6cd1ea5ba5979d48\",\"dweb:/ipfs/QmTx1VMD2DuBD5JaPfD85JqjEfTuGArPQ8CeN1CVtVTF9E\"]}},\"version\":1}",
+  "bytecode": "0x60566023600b82828239805160001a607314601657fe5b30600052607381538281f3fe73000000000000000000000000000000000000000030146080604052600080fdfea26469706673582212200b506b7aba0aa75f2a83a90334ad488b84f844a9323c6ed1a14998375126c26b64736f6c63430006060033",
+  "deployedBytecode": "0x73000000000000000000000000000000000000000030146080604052600080fdfea26469706673582212200b506b7aba0aa75f2a83a90334ad488b84f844a9323c6ed1a14998375126c26b64736f6c63430006060033",
   "immutableReferences": {},
   "sourceMap": "500:5621:25:-:0;;132:2:-1;166:7;155:9;146:7;137:37;255:7;249:14;246:1;241:23;235:4;232:33;222:2;;269:9;222:2;293:9;290:1;283:20;323:4;314:7;306:22;347:7;338;331:24",
   "deployedSourceMap": "500:5621:25:-:0;;;;;;12:1:-1;9;2:12",
-  "source": "pragma solidity >=0.5.0;\r\n\r\nimport '@uniswap/v2-core/contracts/interfaces/IUniswapV2Pair.sol';\r\nimport '@uniswap/v2-core/contracts/interfaces/IUniswapV2Factory.sol';\r\nimport '@uniswap/lib/contracts/libraries/Babylonian.sol';\r\nimport '@uniswap/lib/contracts/libraries/FullMath.sol';\r\n\r\nimport './SafeMath.sol';\r\nimport './UniswapV2Library.sol';\r\n\r\n// library containing some math for dealing with the liquidity shares of a pair, e.g. computing their exact value\r\n// in terms of the underlying tokens\r\nlibrary UniswapV2LiquidityMathLibrary {\r\n    using SafeMath for uint256;\r\n\r\n    // computes the direction and magnitude of the profit-maximizing trade\r\n    function computeProfitMaximizingTrade(\r\n        uint256 truePriceTokenA,\r\n        uint256 truePriceTokenB,\r\n        uint256 reserveA,\r\n        uint256 reserveB\r\n    ) pure internal returns (bool aToB, uint256 amountIn) {\r\n        aToB = FullMath.mulDiv(reserveA, truePriceTokenB, reserveB) < truePriceTokenA;\r\n\r\n        uint256 invariant = reserveA.mul(reserveB);\r\n\r\n        uint256 leftSide = Babylonian.sqrt(\r\n            FullMath.mulDiv(\r\n                invariant.mul(1000),\r\n                aToB ? truePriceTokenA : truePriceTokenB,\r\n                (aToB ? truePriceTokenB : truePriceTokenA).mul(997)\r\n            )\r\n        );\r\n        uint256 rightSide = (aToB ? reserveA.mul(1000) : reserveB.mul(1000)) / 997;\r\n\r\n        if (leftSide < rightSide) return (false, 0);\r\n\r\n        // compute the amount that must be sent to move the price to the profit-maximizing price\r\n        amountIn = leftSide.sub(rightSide);\r\n    }\r\n\r\n    // gets the reserves after an arbitrage moves the price to the profit-maximizing ratio given an externally observed true price\r\n    function getReservesAfterArbitrage(\r\n        address factory,\r\n        address tokenA,\r\n        address tokenB,\r\n        uint256 truePriceTokenA,\r\n        uint256 truePriceTokenB\r\n    ) view internal returns (uint256 reserveA, uint256 reserveB) {\r\n        // first get reserves before the swap\r\n        (reserveA, reserveB) = UniswapV2Library.getReserves(factory, tokenA, tokenB);\r\n\r\n        require(reserveA > 0 && reserveB > 0, 'UniswapV2ArbitrageLibrary: ZERO_PAIR_RESERVES');\r\n\r\n        // then compute how much to swap to arb to the true price\r\n        (bool aToB, uint256 amountIn) = computeProfitMaximizingTrade(truePriceTokenA, truePriceTokenB, reserveA, reserveB);\r\n\r\n        if (amountIn == 0) {\r\n            return (reserveA, reserveB);\r\n        }\r\n\r\n        // now affect the trade to the reserves\r\n        if (aToB) {\r\n            uint amountOut = UniswapV2Library.getAmountOut(amountIn, reserveA, reserveB);\r\n            reserveA += amountIn;\r\n            reserveB -= amountOut;\r\n        } else {\r\n            uint amountOut = UniswapV2Library.getAmountOut(amountIn, reserveB, reserveA);\r\n            reserveB += amountIn;\r\n            reserveA -= amountOut;\r\n        }\r\n    }\r\n\r\n    // computes liquidity value given all the parameters of the pair\r\n    function computeLiquidityValue(\r\n        uint256 reservesA,\r\n        uint256 reservesB,\r\n        uint256 totalSupply,\r\n        uint256 liquidityAmount,\r\n        bool feeOn,\r\n        uint kLast\r\n    ) internal pure returns (uint256 tokenAAmount, uint256 tokenBAmount) {\r\n        if (feeOn && kLast > 0) {\r\n            uint rootK = Babylonian.sqrt(reservesA.mul(reservesB));\r\n            uint rootKLast = Babylonian.sqrt(kLast);\r\n            if (rootK > rootKLast) {\r\n                uint numerator1 = totalSupply;\r\n                uint numerator2 = rootK.sub(rootKLast);\r\n                uint denominator = rootK.mul(5).add(rootKLast);\r\n                uint feeLiquidity = FullMath.mulDiv(numerator1, numerator2, denominator);\r\n                totalSupply = totalSupply.add(feeLiquidity);\r\n            }\r\n        }\r\n        return (reservesA.mul(liquidityAmount) / totalSupply, reservesB.mul(liquidityAmount) / totalSupply);\r\n    }\r\n\r\n    // get all current parameters from the pair and compute value of a liquidity amount\r\n    // **note this is subject to manipulation, e.g. sandwich attacks**. prefer passing a manipulation resistant price to\r\n    // #getLiquidityValueAfterArbitrageToPrice\r\n    function getLiquidityValue(\r\n        address factory,\r\n        address tokenA,\r\n        address tokenB,\r\n        uint256 liquidityAmount\r\n    ) internal view returns (uint256 tokenAAmount, uint256 tokenBAmount) {\r\n        (uint256 reservesA, uint256 reservesB) = UniswapV2Library.getReserves(factory, tokenA, tokenB);\r\n        IUniswapV2Pair pair = IUniswapV2Pair(UniswapV2Library.pairFor(factory, tokenA, tokenB));\r\n        bool feeOn = IUniswapV2Factory(factory).feeTo() != address(0);\r\n        uint kLast = feeOn ? pair.kLast() : 0;\r\n        uint totalSupply = pair.totalSupply();\r\n        return computeLiquidityValue(reservesA, reservesB, totalSupply, liquidityAmount, feeOn, kLast);\r\n    }\r\n\r\n    // given two tokens, tokenA and tokenB, and their \"true price\", i.e. the observed ratio of value of token A to token B,\r\n    // and a liquidity amount, returns the value of the liquidity in terms of tokenA and tokenB\r\n    function getLiquidityValueAfterArbitrageToPrice(\r\n        address factory,\r\n        address tokenA,\r\n        address tokenB,\r\n        uint256 truePriceTokenA,\r\n        uint256 truePriceTokenB,\r\n        uint256 liquidityAmount\r\n    ) internal view returns (\r\n        uint256 tokenAAmount,\r\n        uint256 tokenBAmount\r\n    ) {\r\n        bool feeOn = IUniswapV2Factory(factory).feeTo() != address(0);\r\n        IUniswapV2Pair pair = IUniswapV2Pair(UniswapV2Library.pairFor(factory, tokenA, tokenB));\r\n        uint kLast = feeOn ? pair.kLast() : 0;\r\n        uint totalSupply = pair.totalSupply();\r\n\r\n        // this also checks that totalSupply > 0\r\n        require(totalSupply >= liquidityAmount && liquidityAmount > 0, 'ComputeLiquidityValue: LIQUIDITY_AMOUNT');\r\n\r\n        (uint reservesA, uint reservesB) = getReservesAfterArbitrage(factory, tokenA, tokenB, truePriceTokenA, truePriceTokenB);\r\n\r\n        return computeLiquidityValue(reservesA, reservesB, totalSupply, liquidityAmount, feeOn, kLast);\r\n    }\r\n}\r\n",
-  "sourcePath": "C:\\Users\\ñdkvubefklbjvr\\Documents\\cardio\\v2-periphery\\contracts\\libraries\\UniswapV2LiquidityMathLibrary.sol",
+  "source": "pragma solidity >=0.5.0;\r\n\r\nimport '@uniswap/v2-core/contracts/interfaces/IUniswapV2Pair.sol';\r\nimport '@uniswap/v2-core/contracts/interfaces/IUniswapV2Factory.sol';\r\nimport '@uniswap/lib/contracts/libraries/Babylonian.sol';\r\nimport '@uniswap/lib/contracts/libraries/FullMath.sol';\r\n\r\nimport './SafeMath.sol';\r\nimport './UniswapV2Library.sol';\r\n\r\n// library containing some math for dealing with the liquidity shares of a pair, e.g. computing their exact value\r\n// in terms of the underlying tokens\r\nlibrary UniswapV2LiquidityMathLibrary {\r\n    using SafeMath for uint256;\r\n\r\n    // computes the direction and magnitude of the profit-maximizing trade\r\n    function computeProfitMaximizingTrade(\r\n        uint256 truePriceTokenA,\r\n        uint256 truePriceTokenB,\r\n        uint256 reserveA,\r\n        uint256 reserveB\r\n    ) pure internal returns (bool aToB, uint256 amountIn) {\r\n        aToB = FullMath.mulDiv(reserveA, truePriceTokenB, reserveB) < truePriceTokenA;\r\n\r\n        uint256 invariant = reserveA.mul(reserveB);\r\n\r\n        uint256 leftSide = Babylonian.sqrt(\r\n            FullMath.mulDiv(\r\n                invariant.mul(1000),\r\n                aToB ? truePriceTokenA : truePriceTokenB,\r\n                (aToB ? truePriceTokenB : truePriceTokenA).mul(970)\r\n            )\r\n        );\r\n        uint256 rightSide = (aToB ? reserveA.mul(1000) : reserveB.mul(1000)) / 970;\r\n\r\n        if (leftSide < rightSide) return (false, 0);\r\n\r\n        // compute the amount that must be sent to move the price to the profit-maximizing price\r\n        amountIn = leftSide.sub(rightSide);\r\n    }\r\n\r\n    // gets the reserves after an arbitrage moves the price to the profit-maximizing ratio given an externally observed true price\r\n    function getReservesAfterArbitrage(\r\n        address factory,\r\n        address tokenA,\r\n        address tokenB,\r\n        uint256 truePriceTokenA,\r\n        uint256 truePriceTokenB\r\n    ) view internal returns (uint256 reserveA, uint256 reserveB) {\r\n        // first get reserves before the swap\r\n        (reserveA, reserveB) = UniswapV2Library.getReserves(factory, tokenA, tokenB);\r\n\r\n        require(reserveA > 0 && reserveB > 0, 'UniswapV2ArbitrageLibrary: ZERO_PAIR_RESERVES');\r\n\r\n        // then compute how much to swap to arb to the true price\r\n        (bool aToB, uint256 amountIn) = computeProfitMaximizingTrade(truePriceTokenA, truePriceTokenB, reserveA, reserveB);\r\n\r\n        if (amountIn == 0) {\r\n            return (reserveA, reserveB);\r\n        }\r\n\r\n        // now affect the trade to the reserves\r\n        if (aToB) {\r\n            uint amountOut = UniswapV2Library.getAmountOut(amountIn, reserveA, reserveB);\r\n            reserveA += amountIn;\r\n            reserveB -= amountOut;\r\n        } else {\r\n            uint amountOut = UniswapV2Library.getAmountOut(amountIn, reserveB, reserveA);\r\n            reserveB += amountIn;\r\n            reserveA -= amountOut;\r\n        }\r\n    }\r\n\r\n    // computes liquidity value given all the parameters of the pair\r\n    function computeLiquidityValue(\r\n        uint256 reservesA,\r\n        uint256 reservesB,\r\n        uint256 totalSupply,\r\n        uint256 liquidityAmount,\r\n        bool feeOn,\r\n        uint kLast\r\n    ) internal pure returns (uint256 tokenAAmount, uint256 tokenBAmount) {\r\n        if (feeOn && kLast > 0) {\r\n            uint rootK = Babylonian.sqrt(reservesA.mul(reservesB));\r\n            uint rootKLast = Babylonian.sqrt(kLast);\r\n            if (rootK > rootKLast) {\r\n                uint numerator1 = totalSupply;\r\n                uint numerator2 = rootK.sub(rootKLast);\r\n                uint denominator = rootK.mul(5).add(rootKLast);\r\n                uint feeLiquidity = FullMath.mulDiv(numerator1, numerator2, denominator);\r\n                totalSupply = totalSupply.add(feeLiquidity);\r\n            }\r\n        }\r\n        return (reservesA.mul(liquidityAmount) / totalSupply, reservesB.mul(liquidityAmount) / totalSupply);\r\n    }\r\n\r\n    // get all current parameters from the pair and compute value of a liquidity amount\r\n    // **note this is subject to manipulation, e.g. sandwich attacks**. prefer passing a manipulation resistant price to\r\n    // #getLiquidityValueAfterArbitrageToPrice\r\n    function getLiquidityValue(\r\n        address factory,\r\n        address tokenA,\r\n        address tokenB,\r\n        uint256 liquidityAmount\r\n    ) internal view returns (uint256 tokenAAmount, uint256 tokenBAmount) {\r\n        (uint256 reservesA, uint256 reservesB) = UniswapV2Library.getReserves(factory, tokenA, tokenB);\r\n        IUniswapV2Pair pair = IUniswapV2Pair(UniswapV2Library.pairFor(factory, tokenA, tokenB));\r\n        bool feeOn = IUniswapV2Factory(factory).feeTo() != address(0);\r\n        uint kLast = feeOn ? pair.kLast() : 0;\r\n        uint totalSupply = pair.totalSupply();\r\n        return computeLiquidityValue(reservesA, reservesB, totalSupply, liquidityAmount, feeOn, kLast);\r\n    }\r\n\r\n    // given two tokens, tokenA and tokenB, and their \"true price\", i.e. the observed ratio of value of token A to token B,\r\n    // and a liquidity amount, returns the value of the liquidity in terms of tokenA and tokenB\r\n    function getLiquidityValueAfterArbitrageToPrice(\r\n        address factory,\r\n        address tokenA,\r\n        address tokenB,\r\n        uint256 truePriceTokenA,\r\n        uint256 truePriceTokenB,\r\n        uint256 liquidityAmount\r\n    ) internal view returns (\r\n        uint256 tokenAAmount,\r\n        uint256 tokenBAmount\r\n    ) {\r\n        bool feeOn = IUniswapV2Factory(factory).feeTo() != address(0);\r\n        IUniswapV2Pair pair = IUniswapV2Pair(UniswapV2Library.pairFor(factory, tokenA, tokenB));\r\n        uint kLast = feeOn ? pair.kLast() : 0;\r\n        uint totalSupply = pair.totalSupply();\r\n\r\n        // this also checks that totalSupply > 0\r\n        require(totalSupply >= liquidityAmount && liquidityAmount > 0, 'ComputeLiquidityValue: LIQUIDITY_AMOUNT');\r\n\r\n        (uint reservesA, uint reservesB) = getReservesAfterArbitrage(factory, tokenA, tokenB, truePriceTokenA, truePriceTokenB);\r\n\r\n        return computeLiquidityValue(reservesA, reservesB, totalSupply, liquidityAmount, feeOn, kLast);\r\n    }\r\n}\r\n",
+  "sourcePath": "C:\\Users\\ñdkvubefklbjvr\\Desktop\\R33\\v2-periphery\\contracts\\libraries\\UniswapV2LiquidityMathLibrary.sol",
   "ast": {
     "absolutePath": "project:/contracts/libraries/UniswapV2LiquidityMathLibrary.sol",
     "exportedSymbols": {
@@ -582,7 +582,7 @@
                             "arguments": [
                               {
                                 "argumentTypes": null,
-                                "hexValue": "393937",
+                                "hexValue": "393730",
                                 "id": 7954,
                                 "isConstant": false,
                                 "isLValue": false,
@@ -593,17 +593,17 @@
                                 "src": "1258:3:25",
                                 "subdenomination": null,
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_rational_997_by_1",
-                                  "typeString": "int_const 997"
+                                  "typeIdentifier": "t_rational_970_by_1",
+                                  "typeString": "int_const 970"
                                 },
-                                "value": "997"
+                                "value": "970"
                               }
                             ],
                             "expression": {
                               "argumentTypes": [
                                 {
-                                  "typeIdentifier": "t_rational_997_by_1",
-                                  "typeString": "int_const 997"
+                                  "typeIdentifier": "t_rational_970_by_1",
+                                  "typeString": "int_const 970"
                                 }
                               ],
                               "expression": {
@@ -1052,7 +1052,7 @@
                     "operator": "/",
                     "rightExpression": {
                       "argumentTypes": null,
-                      "hexValue": "393937",
+                      "hexValue": "393730",
                       "id": 7972,
                       "isConstant": false,
                       "isLValue": false,
@@ -1063,10 +1063,10 @@
                       "src": "1370:3:25",
                       "subdenomination": null,
                       "typeDescriptions": {
-                        "typeIdentifier": "t_rational_997_by_1",
-                        "typeString": "int_const 997"
+                        "typeIdentifier": "t_rational_970_by_1",
+                        "typeString": "int_const 970"
                       },
-                      "value": "997"
+                      "value": "970"
                     },
                     "src": "1319:54:25",
                     "typeDescriptions": {
@@ -7724,8 +7724,8 @@
                                     "attributes": {
                                       "argumentTypes": [
                                         {
-                                          "typeIdentifier": "t_rational_997_by_1",
-                                          "typeString": "int_const 997"
+                                          "typeIdentifier": "t_rational_970_by_1",
+                                          "typeString": "int_const 970"
                                         }
                                       ],
                                       "isConstant": false,
@@ -7818,15 +7818,15 @@
                                   {
                                     "attributes": {
                                       "argumentTypes": null,
-                                      "hexvalue": "393937",
+                                      "hexvalue": "393730",
                                       "isConstant": false,
                                       "isLValue": false,
                                       "isPure": true,
                                       "lValueRequested": false,
                                       "subdenomination": null,
                                       "token": "number",
-                                      "type": "int_const 997",
-                                      "value": "997"
+                                      "type": "int_const 970",
+                                      "value": "970"
                                     },
                                     "id": 7954,
                                     "name": "Literal",
@@ -8098,15 +8098,15 @@
                           {
                             "attributes": {
                               "argumentTypes": null,
-                              "hexvalue": "393937",
+                              "hexvalue": "393730",
                               "isConstant": false,
                               "isLValue": false,
                               "isPure": true,
                               "lValueRequested": false,
                               "subdenomination": null,
                               "token": "number",
-                              "type": "int_const 997",
-                              "value": "997"
+                              "type": "int_const 970",
+                              "value": "970"
                             },
                             "id": 7972,
                             "name": "Literal",
@@ -14010,7 +14010,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.14",
-  "updatedAt": "2023-07-17T12:15:16.981Z",
+  "updatedAt": "2024-01-05T04:00:59.651Z",
   "devdoc": {
     "methods": {}
   },

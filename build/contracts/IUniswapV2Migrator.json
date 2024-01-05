@@ -42,7 +42,7 @@
   "sourceMap": "",
   "deployedSourceMap": "",
   "source": "pragma solidity >=0.5.0;\r\n\r\ninterface IUniswapV2Migrator {\r\n    function migrate(address token, uint amountTokenMin, uint amountETHMin, address to, uint deadline) external;\r\n}\r\n",
-  "sourcePath": "C:\\Users\\ñdkvubefklbjvr\\Documents\\cardio\\v2-periphery\\contracts\\interfaces\\IUniswapV2Migrator.sol",
+  "sourcePath": "C:\\Users\\ñdkvubefklbjvr\\Desktop\\R33\\v2-periphery\\contracts\\interfaces\\IUniswapV2Migrator.sol",
   "ast": {
     "absolutePath": "project:/contracts/interfaces/IUniswapV2Migrator.sol",
     "exportedSymbols": {
@@ -499,7 +499,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.14",
-  "updatedAt": "2023-07-17T12:15:16.926Z",
+  "updatedAt": "2024-01-05T04:00:59.569Z",
   "devdoc": {
     "methods": {}
   },

@@ -3,9 +3,9 @@ var Router = artifacts.require("UniswapV2Router02.sol");
 module.exports = function(deployer) {
   // Testnet
   
-  const factory = '0x692888d1d359be06cB9EFFA47eB946E9ecA695aC'
-  const wpls = '0xA1077a294dDE1B09bB078844df40758a5D0f9a27'
-  deployer.deploy(Router, factory, wpls);
+  const factory = '0x7e165A16Cb7c8B0C627c5E696c8C25Ae6b0A47D4'
+  const weth = '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2'
+  deployer.deploy(Router, factory, weth);
   
 /*
   // BSC

@@ -149,7 +149,7 @@
   "sourceMap": "",
   "deployedSourceMap": "",
   "source": "pragma solidity >=0.5.0;\r\n\r\ninterface IUniswapV1Exchange {\r\n    function balanceOf(address owner) external view returns (uint);\r\n    function transferFrom(address from, address to, uint value) external returns (bool);\r\n    function removeLiquidity(uint, uint, uint, uint) external returns (uint, uint);\r\n    function tokenToEthSwapInput(uint, uint, uint) external returns (uint);\r\n    function ethToTokenSwapInput(uint, uint) external payable returns (uint);\r\n}\r\n",
-  "sourcePath": "C:\\Users\\ñdkvubefklbjvr\\Documents\\cardio\\v2-periphery\\contracts\\interfaces\\V1\\IUniswapV1Exchange.sol",
+  "sourcePath": "C:\\Users\\ñdkvubefklbjvr\\Desktop\\R33\\v2-periphery\\contracts\\interfaces\\V1\\IUniswapV1Exchange.sol",
   "ast": {
     "absolutePath": "project:/contracts/interfaces/V1/IUniswapV1Exchange.sol",
     "exportedSymbols": {
@@ -1665,7 +1665,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.14",
-  "updatedAt": "2023-07-17T12:15:16.945Z",
+  "updatedAt": "2024-01-05T04:00:59.600Z",
   "devdoc": {
     "methods": {}
   },
